@@ -1,0 +1,14 @@
+[
+    {
+        "name": "BMW 520d M Sprot",
+        "type": "Car",
+        "price": "10000000",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQgy3Vihtm_EdW3klYnE0IsHeMwpRMnHJGmng&s"
+    },
+    {
+        "name": "2023 Rolls-Royce Phantom Series 2",
+        "type": "Car",
+        "price": "6500000",
+        "image": "https:\/\/i.ytimg.com\/vi\/jEKwh5GG3iA\/maxresdefault.jpg"
+    }
+]
